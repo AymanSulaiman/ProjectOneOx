@@ -1,0 +1,51 @@
+Latitude,Longitude,Restaurant Name,Category,Transactions,Rating,Price Tag,Review
+34.033901,-118.241499,Burmese Please,Burmese,[],5.0,NaN,1
+34.018393,-118.167048,Street Kabbob Eastla,Mediterranean,[],5.0,NaN,1
+34.03501517,-118.234305,The Ricans Food,Puerto Rican,"['delivery', 'pickup']",5.0,NaN,3
+34.0129,-118.25617,Los Amigos Restaurant Salvadoreno,Salvadoran,[],4.5,$,4
+34.033741,-118.241462,Mano Po,Filipino,[],5.0,NaN,6
+34.00244140625,-118.24055480957,El Buca Restaurant,Seafood,[],5.0,$,16
+33.9825900837863,-118.224955448869,Hana Teppanyaki,Teppanyaki,['delivery'],5.0,NaN,26
+33.975575,-118.186979,Nina’s Cafe Bar,French,['restaurant_reservation'],4.5,$$,27
+34.047759,-118.234983,Father’s Office,Gastropubs,[],4.0,NaN,37
+34.042526,-118.2633242,The Stanton DTLA,American (New),['restaurant_reservation'],4.5,$$,50
+34.06161,-118.29964,Dave's Hot Chicken,Chicken Shop,[],4.0,$$,57
+34.00668,-118.25665,Delicious At The Dunbar,Soul Food,['delivery'],4.0,$$,58
+34.0095276,-118.2195839,The Green Olive,Mediterranean,"['delivery', 'pickup']",4.0,$$,65
+33.9885128590499,-118.199956067472,Rajas con Crema,New Mexican Cuisine,"['delivery', 'pickup', 'restaurant_reservation']",5.0,$$,80
+34.007817,-118.2198791,Z's Place,American (Traditional),['delivery'],4.0,$$,89
+34.0039974,-118.2479378,La Carreta,Mexican,['delivery'],4.0,$,168
+34.0501099,-118.25794,Kues Restaurant,Asian Fusion,"['delivery', 'pickup', 'restaurant_reservation']",4.0,$$,175
+33.9935221334472,-118.225381050213,Little Trattoria 25,Italian,['delivery'],4.5,$$,176
+34.04704,-118.25593,V,Cocktail Bars,['delivery'],4.0,$$,209
+34.014241,-118.2305961,Trattoria 25 Restaurant,Italian,['delivery'],4.0,$$,239
+34.04701,-118.26082,The Burrow,Sandwiches,"['delivery', 'restaurant_reservation']",5.0,$$,258
+33.9930975470943,-118.256304330019,Granny's Kitchen,Soul Food,"['delivery', 'pickup']",4.0,$$,327
+34.04665,-118.25616,H&H Brazilian Steakhouse,Brazilian,"['delivery', 'pickup', 'restaurant_reservation']",4.5,NaN,353
+33.988776,-118.225647,Jade Siam Restaurants,Thai,"['delivery', 'pickup']",4.0,$$,388
+34.0097381464074,-118.265285901725,Tire Shop Taqueria,Mexican,['delivery'],4.5,$,450
+33.978496,-118.230545,Avila's El Ranchito Mexican Restaurant,Mexican,[],4.5,$$,615
+34.0489812,-118.2589574,10e,Mediterranean,"['pickup', 'restaurant_reservation']",4.0,$$,626
+34.0427621,-118.2536515,Peking Tavern,Gastropubs,"['delivery', 'pickup', 'restaurant_reservation']",4.0,$$,745
+33.986598,-118.229803,Rays BBQ,Barbeque,['delivery'],4.5,$$,753
+34.048111,-118.258345,JOEY DTLA,American (New),[],4.5,NaN,769
+34.0501189106436,-118.241461110451,Izakaya Fu-ga,Bars,"['delivery', 'pickup', 'restaurant_reservation']",4.0,$$,914
+34.0522793152641,-118.255719402447,LA Prime,Steakhouses,[],4.0,$$$$,937
+34.0476649355579,-118.261218773154,Fogo de Chão Brazilian Steakhouse,Steakhouses,['delivery'],3.5,$$$,1132
+34.04151,-118.23261,Bavel,Middle Eastern,['delivery'],4.5,$$$,1274
+34.0486928,-118.2556854,Industriel,American (New),"['delivery', 'pickup', 'restaurant_reservation']",4.0,$$,1289
+34.038867,-118.23602,The Factory Kitchen,Italian,"['delivery', 'pickup']",4.0,$$$,1332
+34.05049,-118.24406,Redbird,Cocktail Bars,['delivery'],4.0,$$$,1404
+34.0422897,-118.2542114,Preux & Proper,American (New),['delivery'],4.0,$$,1409
+34.0472153480235,-118.256195811488,Little Sister,Vietnamese,['delivery'],4.0,$$,1560
+34.0446963342719,-118.26536453203,Fleming's Prime Steakhouse & Wine Bar,Steakhouses,[],4.0,$$$,1571
+34.0451233,-118.2565153,Colori Kitchen,Italian,"['delivery', 'pickup', 'restaurant_reservation']",4.0,$$,1632
+34.0443222,-118.2382339,Shojin Downtown,Japanese,['restaurant_reservation'],4.0,$$,1771
+34.0509979640131,-118.244926282244,Badmaash - Downtown LA,Indian,[],4.0,$$,1794
+34.0511203,-118.2543221,71 Above,American (Traditional),['delivery'],4.0,$$$$,1859
+34.0282923762355,-118.275208244705,Dirt Dog,Hot Dogs,"['delivery', 'pickup']",4.5,$,2003
+34.046195,-118.261698,Faith & Flower,American (New),['delivery'],4.0,$$$,2485
+34.050023,-118.239935,Marugame Monzo,Japanese,['delivery'],4.5,$$,3671
+34.03402,-118.22919,Bestia,Italian,['delivery'],4.5,$$$,6074
+34.04897,-118.2514,Perch,Lounges,[],4.0,$$$,7655
+34.0456047058105,-118.236061096191,Wurstküche,Hot Dogs,"['delivery', 'pickup']",4.0,$$,8278
