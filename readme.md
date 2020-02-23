@@ -16,13 +16,15 @@ Food insecurity is a prevalent issue that dominates underserved communities in t
 3. Diversity of foods donated
 * We wanted to look at the allocation of cuisine types to be mindful of the what types of ingredients they may have. Using Yelps labels we cleaned up more than 20 types of food and narrowed it to 5 categories;  American, Asian, European, Lation, and bar food. We found a majority of the restaurants were American followed by Asian and European. Looking deeper into these restaurants we can figure out what raw materials they use. Next we want to figure the quality of those raw materials by looking at the prices. 
 4. Price range (tell us about the types of restaurants)
-* Looking at these restaurants we used the Yelp $ figure to see how expensive the restaurants were, we saw 58% of restaurants were 2 $$, 24% of restaurants were unlabeled, and 12% were $$$$. This showed us that most restaurants are either extremely expensive or more affordable. Using this data we look at the $$ restaurants more closely to analyze their ingredients . 
-
+* Looking at these restaurants we used the Yelp $ figure to see how expensive the restaurants were, we saw 58% of restaurants were 2 $$, 24% of restaurants were unlabeled, and 12% were $$$$. This showed us that most restaurants are either extremely expensive or more affordable. Because there were more 2 $$ restaurants, we could look at the ones with the most reviews to look further into the restaurants to analyze their ingredients more closely.
 
 **What restaurants do we want to target for partnerships?**
 
 5. Nuumber of reviews and ratings (insight: popularity; brand recognition; desirability of partnership)
-* We wanted to look at reviews and ratings for two reasons, 1) we wanted to know if people rated their food highly and 2) we wanted to reach out to these restaurants for brand impact and recognition. We found almost all restaurants within the radius had 4 stars or above- this showed us we didn't have to exclude any in particular. After looking at the review count  we found Bottega Louie, Wurstkuche, Perch, Howlin’ Ray’s, Bestia, Republique, Poppy + Rose, Dirt Dog, Little Sister, Bavel had the most reviews. These stood out to us to look into further for partnerships. 
+* We wanted to look at reviews and ratings for two reasons, 1) we wanted to know if people rated their food highly and 2) we wanted to reach out to these restaurants for brand impact and recognition. We found almost all restaurants within the radius had 4 stars or above- this showed us we didn't have to exclude any in particular. After looking at the review count we found Bottega Louie, Wurstkuche, Perch, Howlin’ Ray’s, Bestia, Republique, Poppy + Rose, Dirt Dog, Little Sister, Bavel had the most reviews. These stood out to us to look into further for partnerships. We would also mention to these restaurants the tax benefits of donating extra food.
 
 6. What does the intersection tell us of who we should target 
-* The final variables we used were distances, review count, and ability to deliver. We came up with 10 restaurants within 5 miles that had the most reviews that also delivered. These would be our primary targets and we also found 4 grocery stores that delivered. Our primary restaurant targets Wurstkuche, Bestia, Marugame Monzo, Faith and Flower, and Dirt Dog.
+* The final variables we used were distances, review count, and ability to deliver. We decided on these factors because we wanted the restaurants to be close, be publicly vetted for quality, and eliminate the need to find a 3rd party to deliver their food. We came up with 10 restaurants within 5 miles that had the most reviews that also delivered. These would be our primary targets and we also found 4 grocery stores that delivered. Our primary restaurant targets Wurstkuche, Bestia, Marugame Monzo, Faith and Flower, and Dirt Dog.
+
+
+
