@@ -27,4 +27,4 @@ Food insecurity is a prevalent issue that dominates underserved communities in t
 * The final variables we used were distances, review count, and ability to deliver. We decided on these factors because we wanted the restaurants to be close, be publicly vetted for quality, and eliminate the need to find a 3rd party to deliver their food. We came up with 10 restaurants within 5 miles that had the most reviews that also delivered. These would be our primary targets and we also found 4 grocery stores that delivered. Our primary restaurant targets Wurstkuche, Bestia, Marugame Monzo, Faith and Flower, and Dirt Dog.
 
 
-
+Using these data driven insights, the food bank can take this information and pursue partnerships with these restaurants to always have a supply of quality food. Simultaneously, the restaurants will have less food waste and overall food distribution will be more effective. 
