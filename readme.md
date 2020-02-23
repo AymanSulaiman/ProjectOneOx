@@ -6,9 +6,9 @@ Food insecurity is a prevalent issue that dominates underserved communities in t
 	
 **How do we create a network of potential food partnerships?**
 1. Restaurant proximity to food banks (distance from food bank)
-* We found more than enough restaurants within a 5 mile radius, Yelp limited us to 50 restaurants even though there were more within the radius. From here we decided to further narrow down the restaurant list along with finding  additional food sources.
+* We found more than enough restaurants within a 5 mile radius. Yelp limited us to 50 restaurants even though there were more within the radius. From here we decided to further narrow down the restaurant list along with finding  additional food sources.
 2. Map of additional food donation sources (distance from food bank)
-* Similar to the restaurants there were plenty of grocery stores but we noticed they had fewer numbers. This was expected but confirmed our belief that restaurants were a more ideal target than grocery stores based on how many different options we could pursue. Together, there were more than 100+ restaurants and grocery stores within our 5 miles radius. While building our overlap, we saw that restaurants were closer than most grocery stores and this reinforced to us that restaurants should . From here we want to see what grocery stores and restaurants had the ability to deliver. 
+* Similar to the restaurants there were plenty of grocery stores but we noticed they had fewer numbers. This was expected but confirmed our belief that restaurants were a more ideal target than grocery stores based on how many different options we could pursue. Together, there were more than 100+ restaurants and grocery stores within our 5 miles radius. While building our overlap, we saw that restaurants were closer than most grocery stores and this reinforced to us that restaurants should be our primary target. From here we want to see what the average price was and what the most typical cuisines were to see what what the quality and type of ingredients the restaurants around our food banks had.
 	
 
 **What are the types of donation sources?**
