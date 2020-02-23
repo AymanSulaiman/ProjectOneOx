@@ -28,4 +28,4 @@ Food insecurity is a prevalent issue that dominates underserved communities in t
 ⋅⋅⋅The final variables we used were distances, review count, and ability to deliver. We came up with 10 restaurants within 5 miles that had the most reviews that also delivered. These would be our primary targets and we also found 4 grocery stores that delivered. Our primary restaurant targets Wurstkuche, Bestia, Marugame Monzo, Faith and Flower, and Dirt Dog.
 
 
-...This is a test
+* This is a test
