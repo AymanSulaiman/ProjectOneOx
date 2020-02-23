@@ -2,13 +2,13 @@
 
 # Developing Food Bank and Restaurant Partnerships
 
-Food insecurity is a prevalent issue that dominates underserved communities in this U.S, in conjunction with lack of food, the United States also has a food waste dilemma. The question Team Officious Ox intends to answer is if we can create a network of food partnerships with restaurants, grocery stores, and food delivery services in order to efficiently broker a link to food banks. L.A. county is the most populated county in the United States  and is currently dealing with food insecurity and waste problem. L.A. County currently produces 4,000 to 6,000 tons per day of food waste, at the same time, 1 in 9 Californians lacks adequate access to food. According to the NRDC, up to 40% of food in the United States is wasted, so therein lays a problem of connecting private businesses with non-profit food banks in order build food donation partnerships to increase food diversity and eliminate waste.
+Food insecurity is a prevalent issue that dominates underserved communities in this U.S. In conjunction with lack of food, the United States also has a food waste dilemma. The question Team Officious Ox intends to answer is if we can create a network of food partnerships with restaurants, grocery stores, and food delivery services in order to efficiently broker a link to food banks. L.A. county is the most populated county in the United States and is currently dealing with food insecurity and a food waste problem. L.A. County currently produces 4,000 to 6,000 tons per day of food waste, at the same time, 1 in 9 Californians lacks adequate access to food. According to the NRDC, up to 40% of food in the United States is wasted, so therein lays a problem of connecting private businesses with non-profit food banks in order build food donation partnerships to increase food diversity and eliminate waste.
 	
 **How do we create a network of potential food partnerships?**
 1. Restaurant proximity to food banks (distance from food bank)
 * We found more than enough restaurants within a 5 mile radius, Yelp limited us to 50 restaurants even though there were more within the radius. From here we decided to further narrow down the restaurant list along with finding  additional food sources.
 2. Map of additional food donation sources (distance from food bank)
-* Similar to the restaurants there were plenty of grocery stores but less grocery stores to restaurants , this was expected but confirmed our belief. Together, there were more than 100+ restaurants and grocery stores within our 5 miles radius. While locating at our overlap, we saw that restaurants were closer than most grocery stores because of this our first targets would be restaurants. From here we want to see what grocery stores and restaurants can deliver. 
+* Similar to the restaurants there were plenty of grocery stores but we noticed they had fewer numbers. This was expected but confirmed our belief that restaurants were a more ideal target than grocery stores based on how many different options we could pursue. Together, there were more than 100+ restaurants and grocery stores within our 5 miles radius. While building our overlap, we saw that restaurants were closer than most grocery stores and this reinforced to us that restaurants should . From here we want to see what grocery stores and restaurants had the capacity to deliver. 
 	
 
 *What are the types of donation sources?*
@@ -26,6 +26,3 @@ Food insecurity is a prevalent issue that dominates underserved communities in t
 
 6. What does the intersection tell us of who we should target 
 * The final variables we used were distances, review count, and ability to deliver. We came up with 10 restaurants within 5 miles that had the most reviews that also delivered. These would be our primary targets and we also found 4 grocery stores that delivered. Our primary restaurant targets Wurstkuche, Bestia, Marugame Monzo, Faith and Flower, and Dirt Dog.
-
-
-
