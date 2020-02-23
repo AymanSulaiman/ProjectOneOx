@@ -11,7 +11,7 @@ Food insecurity is a prevalent issue that dominates underserved communities in t
 * Similar to the restaurants there were plenty of grocery stores but we noticed they had fewer numbers. This was expected but confirmed our belief that restaurants were a more ideal target than grocery stores based on how many different options we could pursue. Together, there were more than 100+ restaurants and grocery stores within our 5 miles radius. While building our overlap, we saw that restaurants were closer than most grocery stores and this reinforced to us that restaurants should . From here we want to see what grocery stores and restaurants had the ability to deliver. 
 	
 
-*What are the types of donation sources?*
+**What are the types of donation sources?**
 
 3. Diversity of foods donated
 * We wanted to look at the allocation of cuisine types to be mindful of the what types of ingredients they may have. Using Yelps labels we cleaned up more than 20 types of food and narrowed it to 5 categories;  American, Asian, European, Lation, and bar food. We found a majority of the restaurants were American followed by Asian and European. Looking deeper into these restaurants we can figure out what raw materials they use. Next we want to figure the quality of those raw materials by looking at the prices. 
@@ -19,7 +19,7 @@ Food insecurity is a prevalent issue that dominates underserved communities in t
 * Looking at these restaurants we used the Yelp $ figure to see how expensive the restaurants were, we saw 58% of restaurants were 2 $$, 24% of restaurants were unlabeled, and 12% were $$$$. This showed us that most restaurants are either extremely expensive or more affordable. Using this data we look at the $$ restaurants more closely to analyze their ingredients . 
 
 
-*What restaurants do we want to target for partnerships?* 
+**What restaurants do we want to target for partnerships?**
 
 5. Nuumber of reviews and ratings (insight: popularity; brand recognition; desirability of partnership)
 * We wanted to look at reviews and ratings for two reasons, 1) we wanted to know if people rated their food highly and 2) we wanted to reach out to these restaurants for brand impact and recognition. We found almost all restaurants within the radius had 4 stars or above- this showed us we didn't have to exclude any in particular. After looking at the review count  we found Bottega Louie, Wurstkuche, Perch, Howlin’ Ray’s, Bestia, Republique, Poppy + Rose, Dirt Dog, Little Sister, Bavel had the most reviews. These stood out to us to look into further for partnerships. 
