@@ -6,7 +6,7 @@ Food insecurity is a prevalent issue that dominates underserved communities in t
 	
 **How do we create a network of potential food partnerships?**
 1. Restaurant proximity to food banks (distance from food bank)
-⋅⋅⋅We found more than enough restaurants within a 5 mile radius, Yelp limited us to 50 restaurants even though there were more within the radius. From here we decided to further narrow down the restaurant list along with finding  additional food sources.
+*We found more than enough restaurants within a 5 mile radius, Yelp limited us to 50 restaurants even though there were more within the radius. From here we decided to further narrow down the restaurant list along with finding  additional food sources.
 2. Map of additional food donation sources (distance from food bank)
 ⋅⋅⋅Similar to the restaurants there were plenty of grocery stores but less grocery stores to restaurants , this was expected but confirmed our belief. Together, there were more than 100+ restaurants and grocery stores within our 5 miles radius. While locating at our overlap, we saw that restaurants were closer than most grocery stores because of this our first targets would be restaurants. From here we want to see what grocery stores and restaurants can deliver. 
 	
