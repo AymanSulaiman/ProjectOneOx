@@ -20,7 +20,7 @@ Food insecurity is a prevalent issue that dominates underserved communities in t
 
 **What restaurants do we want to target for partnerships?**
 
-5. Nuumber of reviews and ratings (insight: popularity; brand recognition; desirability of partnership)
+5. Number of reviews and ratings (insight: popularity; brand recognition; desirability of partnership)
 * We wanted to look at reviews and ratings for two reasons, 1) we wanted to know if people rated their food highly and 2) we wanted to reach out to these restaurants for brand impact and recognition. We found almost all restaurants within the radius had 4 stars or above- this showed us we didn't have to exclude any in particular. After looking at the review count we found Bottega Louie, Wurstkuche, Perch, Howlin’ Ray’s, Bestia, Republique, Poppy + Rose, Dirt Dog, Little Sister, Bavel had the most reviews. These stood out to us to look into further for partnerships. We would also mention to these restaurants the tax benefits of donating extra food.
 
 6. What does the intersection tell us of who we should target 
