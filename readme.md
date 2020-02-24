@@ -13,7 +13,7 @@ Food insecurity is a prevalent issue that dominates underserved communities in t
 
 **What are the types of donation sources?**
 
-3. Diversity of foods donated
+3. Diversity of foods donated (cuisine types)
 * We wanted to look at the allocation of cuisine types to be mindful of the what types of ingredients they may have. Using Yelps labels we cleaned up more than 20 types of food and narrowed it to 5 categories;  American, Asian, European, Lation, and bar food. We found a majority of the restaurants were American followed by Asian and European. Looking deeper into these restaurants we can figure out what raw materials they use. Next we want to figure the quality of those raw materials by looking at the prices. 
 4. Price range (tell us about the types of restaurants)
 * Looking at these restaurants we used the Yelp $ figure to see how expensive the restaurants were, we saw 58% of restaurants were 2 $$, 24% of restaurants were unlabeled, and 12% were $$$$. This showed us that most restaurants are either extremely expensive or more affordable. Because there were more 2 $$ restaurants, we could look at the ones with the most reviews to look further into the restaurants to analyze their ingredients more closely.
