@@ -1,4 +1,4 @@
-## Project One
+## Restaurants and Foodbank Analytics
 
 # Overview
 Connected Yelp API to find out food sources and prices with local LA food banks to create a partnership between the Food bank and the restaurants.
