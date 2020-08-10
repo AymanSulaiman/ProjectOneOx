@@ -1,5 +1,8 @@
 ## Project One
 
+# Overview
+Connected Yelp API to find out food sources and prices with local LA food banks to create a partnership between the Food bank and the restaurants.
+
 # Developing Food Bank and Restaurant Partnerships
 
 Food insecurity is a prevalent issue that dominates underserved communities in this U.S. In conjunction with lack of food, the United States also has a food waste dilemma. The question our team intends to answer is if we can create a network of food partnerships with restaurants, grocery stores, and food banks. L.A. county is the most populated county in the United States and is currently dealing with food insecurity and a food waste problem. It currently produces 4,000 to 6,000 tons per day of food waste, at the same time, 1 in 9 Californians lacks adequate access to food. According to the NRDC, up to 40% of food in the United States is wasted, so our goal is to connect private businesses with non-profit food banks in order build food donation partnerships to increase food diversity and eliminate waste.
