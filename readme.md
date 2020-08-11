@@ -1,7 +1,7 @@
 ## Restaurants and Foodbank Analytics
 
 # Overview
-Connected Yelp API to find out food sources and prices with local LA food banks to create a partnership between the Food bank and the restaurants.
+Connected the Yelp API to find out food sources and prices with local LA food banks to create a partnership between a Food Bank and the restaurants in Downtown LA.  This used python and to connect with the API, build the Graphs and Visualizations and Google Maps for the mapping.
 
 # Developing Food Bank and Restaurant Partnerships
 

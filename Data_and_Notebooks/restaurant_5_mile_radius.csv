@@ -1,0 +1,47 @@
+Restaurant,Address,Latitude,Longitude,Distance(mi),Cuisine,Rating,Review,Delivery,Price
+Trattoria 25 Restaurant,2501 S Santa Fe Ave,34.014241,-118.2305961,0.796,Italian,4.0,239,['delivery'],$$
+Bestia,2121 E 7th Pl,34.03402,-118.22919,1.749,Italian,4.5,6078,['delivery'],$$$
+H&H Brazilian Steakhouse,518 W 7th St,34.04665,-118.25616,2.465,Brazilian,4.5,357,"['restaurant_reservation', 'pickup', 'delivery']",
+The Stanton DTLA,1091 S Hope St,34.042526,-118.2633242,2.427,American (New),4.5,52,['restaurant_reservation'],$$
+Little Trattoria 25,5415 Pacific Blvd,33.9935221334472,-118.225381050213,1.335,Italian,4.5,176,['delivery'],$$
+Nina’s Cafe Bar,6626 Atlantic Ave,33.975575,-118.186979,3.846,French,4.5,30,['restaurant_reservation'],$$
+Mano Po,777 S Alameda St,34.033741,-118.241462,1.547,Filipino,5.0,7,[],
+Rajas con Crema,3630 Slauson Ave,33.9885128590499,-118.199956067472,2.796,New Mexican Cuisine,5.0,85,"['restaurant_reservation', 'pickup', 'delivery']",$$
+JOEY DTLA,700 W 7th St,34.048111,-118.258345,2.594,American (New),4.5,783,[],
+Perch,448 S Hill St,34.04897,-118.2514,2.52,Lounges,4.0,7675,[],$$$
+Delicious At The Dunbar,4229 S Central Ave,34.00668,-118.25665,0.865,Soul Food,4.0,58,['delivery'],$$
+9th St Ramen,111 W 9th St,34.04191,-118.25516,2.178,Ramen,5.0,9,[],
+Rays BBQ,6038 Santa Fe Ave,33.986598,-118.229803,1.486,Barbeque,4.5,754,['delivery'],$$
+Ying Hana Teriyaki,1516 Firestone Blve,33.959986,-118.246576,2.891,Japanese,5.0,5,[],
+The Ricans Food,1801 E 7th St,34.03501517,-118.234305,1.692,Puerto Rican,5.0,4,"['pickup', 'delivery']",
+Wurstküche,800 E 3rd St,34.0456047058105,-118.236061096191,2.289,Hot Dogs,4.0,8281,"['pickup', 'delivery']",$$
+Father’s Office,905 E 2nd St,34.047759,-118.234983,2.427,Gastropubs,4.0,40,[],
+The Green Olive,3632 Soto St,34.0095276,-118.2195839,1.366,Mediterranean,4.0,66,"['pickup', 'delivery']",$$
+Ranchos Onsite Tacos,,34.03983,-118.26855,2.477,Caterers,5.0,191,[],
+PASTA e PASTA by Allegro,432 E 2nd St,34.046459,-118.238403,2.321,Italian,4.5,781,['delivery'],$$
+Avila's El Ranchito Mexican Restaurant,6703 Santa Fe Ave,33.978496,-118.230545,1.904,Mexican,4.5,619,[],$$
+The Factory Kitchen,1300 Factory Pl,34.038867,-118.23602,1.891,Italian,4.0,1334,"['pickup', 'delivery']",$$$
+Bavel,500 Mateo St,34.04151,-118.23261,2.094,Middle Eastern,4.5,1279,['delivery'],$$$
+Granny's Kitchen,5440 S Central Ave,33.9930975470943,-118.256304330019,1.226,Soul Food,4.0,328,"['pickup', 'delivery']",$$
+Burmese Please,777 S Alameda St,34.033901,-118.241499,1.556,Burmese,5.0,1,[],
+Preux & Proper,840 S Spring St,34.0422897,-118.2542114,2.18,American (New),4.0,1411,['delivery'],$$
+Tire Shop Taqueria,4069 S Avalon Blvd,34.0097381464074,-118.265285901725,1.383,Mexican,4.5,451,['delivery'],$
+Hana Teppanyaki,6330 Pacific Blvd,33.9825900837863,-118.224955448869,1.844,Teppanyaki,5.0,26,['delivery'],
+El Buca Restaurant,4501 S Alameda St,34.00244140625,-118.24055480957,0.348,Seafood,5.0,16,[],$
+Maccheroni Republic,332 S Broadway,34.050039,-118.248552,2.552,Italian,4.0,2909,"['pickup', 'delivery']",$$
+The Burrow,821 S Flower St,34.04701,-118.26082,2.593,Sandwiches,5.0,260,"['restaurant_reservation', 'delivery']",$$
+Little Sister,523 W 7th St,34.0472153480235,-118.256195811488,2.498,Vietnamese,4.0,1562,['delivery'],$$
+Fogo de Chão Brazilian Steakhouse,800 S Figueroa,34.0476649355579,-118.261218773154,2.638,Steakhouses,3.5,1130,['delivery'],$$$
+Bottega Louie,700 S Grand Ave,34.0469300995766,-118.256601457672,2.49,Italian,4.0,16894,['delivery'],$$
+Marugame Monzo,329 E 1st St,34.050023,-118.239935,2.527,Japanese,4.5,3675,['delivery'],$$
+Z's Place,3805 S Soto St,34.007817,-118.2198791,1.345,American (Traditional),4.0,89,['delivery'],$$
+Jade Siam Restaurants,2570 E Slauson Ave,33.988776,-118.225647,1.525,Thai,4.0,390,"['pickup', 'delivery']",$$
+Badmaash - Downtown LA,108 W 2nd St,34.0509979640131,-118.244926282244,2.586,Indian,4.0,1794,[],$$
+The Boiling Crab,3377 Wilshire Blvd,34.0624249247685,-118.297670715344,4.66,Seafood,4.0,2322,['delivery'],$$
+71 Above,633 W 5th St,34.0511203,-118.2543221,2.687,American (Traditional),4.0,1865,['delivery'],$$$$
+10e,811 W 7th St,34.0489812,-118.2589574,2.656,Mediterranean,4.0,628,"['pickup', 'restaurant_reservation']",$$
+Howlin' Ray's,727 N Broadway,34.061517,-118.239716,3.216,Southern,4.5,6152,['delivery'],$$
+V,515 W 7th St,34.04704,-118.25593,2.483,Cocktail Bars,4.0,211,['delivery'],$$
+LA Prime,404 S Figueroa St,34.0522793152641,-118.255719402447,2.778,Steakhouses,4.0,938,[],$$$$
+La Casita Mexicana,4030 E Gage Ave,33.9786,-118.19515,3.333,Mexican,4.0,1049,['delivery'],$$
+Faith & Flower,705 W 9th St,34.046195,-118.261698,2.572,American (New),4.0,2489,['delivery'],$$$
